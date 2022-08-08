@@ -1,6 +1,6 @@
 # Uroker - Telegram bot for schedule lessons and tasks.
 
-##⭐ Features
+## ⭐ Features
 - Full information previous / current / next lessons
 - Important announcements
 - Tasks list
