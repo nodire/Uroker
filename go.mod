@@ -1,4 +1,4 @@
-module lesson-bot
+module github.com/nodire/Uroker/tree/master
 
 go 1.18
 
