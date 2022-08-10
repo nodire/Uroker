@@ -1,4 +1,4 @@
-# Uroker - Telegram bot for schedule lessons and tasks
+## Uroker - Telegram bot for schedule lessons and tasks
 
 ## ⭐ Features
 - Full information previous / current / next lessons
